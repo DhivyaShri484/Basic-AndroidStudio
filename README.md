@@ -2,7 +2,7 @@
 Developed By: Dhivya Shri
 Register Number: 212221230009
 ### MainActivity.java:
-<python>
+<html>
 package com.example.project;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
         toast.show();
     }
 }
-</python>
+</html>
 ### activity_main.xml:
 
 <?xml version="1.0" encoding="utf-8"?>
