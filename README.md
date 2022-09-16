@@ -2,13 +2,12 @@
 Developed By: Dhivya Shri
 Register Number: 212221230009
 ### MainActivity.java:
+
+<java>
 package com.example.project;
-
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.widget.Toast;
-
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -49,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
         toast.show();
     }
 }
-
+</java>
 ### activity_main.xml:
 
 <?xml version="1.0" encoding="utf-8"?>
