@@ -78,7 +78,7 @@ OUTPUT:
 ![image](https://user-images.githubusercontent.com/94505585/190555061-6c0a77a3-1836-45b9-abe8-43e7319a4fd5.png)
 ![image](https://user-images.githubusercontent.com/94505585/190555082-49cf88a5-4486-4b13-bf74-651916aae59a.png)
 
-Result:</br>
+### Result:</br>
 Therefore a program is return to develop a program to detect the various life cycles of an activity. The program is successfully executed.
 
 
