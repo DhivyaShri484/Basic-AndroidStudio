@@ -3,13 +3,13 @@ Developed By: Dhivya Shri
 Register Number: 212221230009
 ### MainActivity.java:
 
-<java>
+<c>
 package com.example.project;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
-</java>
+</c>
 <java>
     @Override
     protected void onCreate(Bundle savedInstanceState) {
