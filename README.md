@@ -2,6 +2,7 @@
 Developed By: Dhivya Shri
 Register Number: 212221230009
 ### MainActivity.java:
+```
 <html>
 package com.example.project;
 import androidx.appcompat.app.AppCompatActivity;
@@ -47,6 +48,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 </html>
+```
 ### activity_main.xml:
 
 <?xml version="1.0" encoding="utf-8"?>
