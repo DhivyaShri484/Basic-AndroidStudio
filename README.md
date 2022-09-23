@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
 </html>
 ```
 ### activity_main.xml:
-
+```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -69,7 +69,7 @@ public class MainActivity extends AppCompatActivity {
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
-
+```
 OUTPUT: 
 ![image](https://user-images.githubusercontent.com/94505585/190554889-a0a5dc4c-0c31-41f6-940d-4bfd4e2fe968.png)
 ![image](https://user-images.githubusercontent.com/94505585/190554935-92f7d7b2-e257-4908-8c76-6b4223c06c02.png)
@@ -81,7 +81,3 @@ OUTPUT:
 
 ### Result:</br>
 Therefore a program is return to develop a program to detect the various life cycles of an activity. The program is successfully executed.
-
-
-
-
