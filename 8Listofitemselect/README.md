@@ -35,7 +35,7 @@ Registeration Number:212221230009
 ```
 ### MainActivity.java
 ```
-package com.sanath.exp8;
+package com.example.exp8;
 
 
 
