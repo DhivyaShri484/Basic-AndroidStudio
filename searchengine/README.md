@@ -28,8 +28,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the text “display screen of any search engine”.
-Developed by:
-Registeration Number :
+Developed by:Dhivya Shri
+Registeration Number:212221230009
 */
 ```
 ### MainActivity.java
