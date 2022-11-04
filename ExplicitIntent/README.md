@@ -161,6 +161,9 @@ public class Secondactivity extends AppCompatActivity {
 
 ## OUTPUT
 
+<img width="1440" alt="output12b" src="https://user-images.githubusercontent.com/94505585/199947665-15ba185e-52e6-4e43-99ba-386a4218c2e2.png">
+
+<img width="1440" alt="output22b" src="https://user-images.githubusercontent.com/94505585/199947701-bb3edfaa-2dbe-4538-adb7-4236342b8b91.png">
 
 
 ## RESULT
