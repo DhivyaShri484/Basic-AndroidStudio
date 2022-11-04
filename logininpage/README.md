@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 */
 Program to display login page.
-Developed by: Sai Eswar Kandukuri
-Registeration Number:212221240020
+Developed by:Dhivya Shri
+Registeration Number:212221240009
 /*
 ```
 
@@ -80,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
 
 ```
 ### activity_main.xml
-
+```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
@@ -187,9 +187,12 @@ public class MainActivity extends AppCompatActivity {
         tools:ignore="SpeakableTextPresentCheck" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
-
+```
 ###  OUTPUT
 
+<img width="318" alt="emulator" src="https://user-images.githubusercontent.com/94505585/200010158-33aa9984-9eb2-49fa-bfd4-52f0133f5ee2.png">
+
+![Screenshot (19)](https://user-images.githubusercontent.com/94505585/200010243-de667add-a80f-4061-b74e-762d37323447.png)
 
 
 ### RESULT
