@@ -29,8 +29,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to create and design an android application that draws basic graphical primitives on the screen.
-Developed By: Challa Sandeep
-Register Number: 212221240011
+Developed By: Dhivya Shri
+Register Number: 212221230009
 */
 ```
 
